@@ -1,4 +1,4 @@
 sent_feedbacks = set()
-bot_token = "5805717868:AAG-Y7EllxFablLXuEGTg4z-lTIByLojcmg"
+bot_token = "Your_bot_token"
 user_data = {}
-api_key_gpt = "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"
+api_key_gpt = "Your_api_gpt"
